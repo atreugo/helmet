@@ -7,6 +7,7 @@ import (
 	gstrconv "github.com/savsgio/gotils/strconv"
 )
 
+// New returns a helmet middleware.
 func New(cfg Config) atreugo.Middleware {
 	if cfg.XSSProtection == "" {
 		cfg.XSSProtection = defaultXSSProtection
