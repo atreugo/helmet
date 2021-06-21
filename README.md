@@ -1,6 +1,7 @@
 # Helmet Middleware
 
 [![Build Status](https://travis-ci.com/atreugo/helmet.svg?branch=master)](https://travis-ci.com/atreugo/helmet)
+[![Coverage Status](https://coveralls.io/repos/github/atreugo/helmet/badge.svg?branch=main)](https://coveralls.io/github/atreugo/helmet?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/atreugo/helmet)](https://goreportcard.com/report/github.com/atreugo/helmet)
 [![GoDev](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/github.com/atreugo/helmet)
 [![GitHub release](https://img.shields.io/github/release/atreugo/helmet.svg)](https://github.com/atreugo/helmet/releases)
