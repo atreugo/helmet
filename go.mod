@@ -1,6 +1,6 @@
 module github.com/atreugo/helmet
 
-go 1.12
+go 1.15
 
 require (
 	github.com/savsgio/atreugo/v11 v11.8.0
